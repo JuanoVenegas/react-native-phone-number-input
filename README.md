@@ -1,3 +1,5 @@
+Forked from: https://github.com/garganurag893/react-native-phone-number-input
+
 <div align="center">
   <img src="./gif/Phone_Number_Input_Layout_1.gif" height="400" title="Anurag Garg"   alt="Anurag Garg" style="box-shadow: 0 20px 30px 3px rgba(9, 9, 16, 0.2);">
   <img src="./gif/Phone_Number_Input_Layout_2.gif" height="400" title="Anurag Garg"   alt="Anurag Garg" style="box-shadow: 0 20px 30px 3px rgba(9, 9, 16, 0.2);">
